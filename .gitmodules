@@ -1,0 +1,3 @@
+[submodule "maya-tests"]
+	path = maya-tests
+	url = git@github.com:HolisticCoders/maya-tests.git
